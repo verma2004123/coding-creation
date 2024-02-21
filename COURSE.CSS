@@ -1,0 +1,47 @@
+
+body{
+    background-color:#eeeee4;
+}
+
+
+
+
+h1{
+    text-align: center;
+    margin-top: 30px;
+    font-style: italic;
+    font-size: 30px;
+
+}
+
+
+.btn1{
+    height: 50px;
+    width: 300px;
+    background-color: #063970;
+    color:white;
+    font-style: italic;
+    margin-left: 100px;
+    border-radius: 1rem;
+    font-size: 25px;
+    
+}
+
+.btn2{
+    height: 50px;
+    width: 300px;
+    background-color: #063970;
+    color:white;
+    font-style: italic;
+    margin-left: 200px;
+    
+    border-radius: 1rem;
+    font-size: 25px;
+    
+}
+
+
+pre{
+
+    margin-top: 100px;
+}
